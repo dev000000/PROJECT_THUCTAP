@@ -1,0 +1,13 @@
+.country__pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &-size {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  &-text {
+    margin-right: 8px;
+  }
+}
