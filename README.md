@@ -23,8 +23,6 @@ The system allows users to manage **Countries** and **Departments** with CRUD op
 This project is intended as a **reference and practice guide** for future interns preparing to work with enterprise-level React projects.
 
 ---
-
-## 🧭 Table of Contents
 ## 🧭 Table of Contents
 
 1. [📘 Overview](#-overview)
